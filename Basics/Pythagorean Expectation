@@ -3,3 +3,5 @@
            The pythagorean expectation is the relationship between wins and runs, goals, and other criteria.
            The pythagorean theorem states that the percentage of games won by a team in a season is directly proportional to 
            (points/runs/goals scored by the team)^2/(Points/runs/goals scored by opponenet)^2
+           
+           This model worked well for the football, basketball and baseball data set, but not great for cricket.
